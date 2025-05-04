@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn==1.5.2
+xgboost==2.1.
+tensorflow
+joblib
+tabulate
+bs4
+requests
+selenium 
+re
+time
+csv
