@@ -11,9 +11,9 @@ The project utilizes two primary datasets:
 - **Weather Data:** 6-hour interval resolution (interpolated to 5-minute frequency)
 
  🗂️ Data Sources
-- Publicly available datasets or utility-provided load/weather data
-- Data range: 2020 to 2022 (Train: 2020–Mid 2022, Test: Mid 2022–End 2022)
-- If You want to skip the dataset creation process while training you can download the dataset directly and strat from the training process
+- Publicly available datasets or utility-provided load/weather data (SLDC and Time and date websites)
+- Data range: 2020 to 2022 
+- If You want to skip the dataset creation process while training you can download the dataset directly and start from the training process
 ---
 
 ⚙️ Workflow
@@ -56,4 +56,7 @@ The forecasting pipeline includes:
 - Install dependencies:
   --pip install -r requirements.txt  ( SOME OF THE REQUIREMENTS MAYBE MISSING IN requirement.txt )
 
+** How to Train the model
+If u dont want to go through all the preprocessing Steps Just Download the dataset and run the HybridModelCreation.ipynb 
+Use google colab or Jupiternotebook 
  
