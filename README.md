@@ -56,7 +56,8 @@ The forecasting pipeline includes:
 - Install dependencies:
   --pip install -r requirements.txt  ( SOME OF THE REQUIREMENTS MAYBE MISSING IN requirement.txt )
 
-** How to Train the model
+** How to Train the model ?
+
 If u dont want to go through all the preprocessing Steps Just Download the dataset and run the HybridModelCreation.ipynb 
 Use google colab or Jupiternotebook 
  
